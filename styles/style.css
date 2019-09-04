@@ -1,7 +1,3 @@
-body  {
-     font-family: 'Lato', sans-serif; color: #272922
-}
-
 body {
     font-family: sans-serif;
   }
@@ -20,6 +16,15 @@ h1 {
     padding: 20px; 
     color: #00539f;
     text-shadow:  3px 3px 1px black;
+}
+
+
+h3 {
+  font-size: 20px;
+  text-align: center;
+  margin: 0;
+  padding: 20px; 
+  color: #00539f;
 }
 
  p, li {
