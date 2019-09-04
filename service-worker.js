@@ -4,9 +4,9 @@
 
 var CACHE_NAME = 'static-cache1';
 var urlsToCache = [
-  '.',
-  '/index.html',
-  '/pg2.html',
+  './',
+  './index.html',
+  './pg2.html',
 ];
   
 
