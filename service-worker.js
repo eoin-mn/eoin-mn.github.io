@@ -7,6 +7,7 @@ var urlsToCache = [
   './',
   './index.html',
   './pg2.html',
+  './styles/style.css',
 ];
   
 
