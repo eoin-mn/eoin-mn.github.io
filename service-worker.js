@@ -2,7 +2,7 @@
 'use strict';
 
 
-var CACHE_NAME = 'static-cache';
+var CACHE_NAME = 'static-cache1';
 var urlsToCache = [
   '.',
   '/index.html',
@@ -52,4 +52,5 @@ function fetchAndCache(url) {
     // You could return a custom offline 404 page here
   });
 };
+
 
